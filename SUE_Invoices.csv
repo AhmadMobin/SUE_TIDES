@@ -61,9 +61,9 @@ Invoice_Date,SUE,Date_Worked,Time,Item,Status
 26-Jul-18,Norman Schutz,26-Jul-18,8,Tides TTT Day 1,Open
 5-Jul-18,Dharskia Watson,2-Jul-18,1,Prep,Closed
 5-Jul-18,Dharskia Watson,3-Jul-18,9,Facilitation,Closed
-9-Aug-18,Dharskia Watson,31-Jul-18,2,Content Team Mtg,Open
-9-Aug-18,Dharskia Watson,1-Aug-18,8,Training,Open
-9-Aug-18,Dharskia Watson,8-Aug-18,8,Training,Open
+9-Aug-18,Dharskia Watson,31-Jul-18,2,Content Team Mtg,Closed
+9-Aug-18,Dharskia Watson,1-Aug-18,8,Training,Closed
+9-Aug-18,Dharskia Watson,8-Aug-18,8,Training,Closed
 9-Aug-18,Norman Schutz,30-Jul-18,1,SUE Role Discussion,Closed
 9-Aug-18,Norman Schutz,2-Aug-18,8,Tides TTT Simulation,Closed
 9-Aug-18,Norman Schutz,9-Aug-18,8,TTT,Closed
@@ -76,3 +76,15 @@ Invoice_Date,SUE,Date_Worked,Time,Item,Status
 23-Aug-18,Lucy Drummonde,10-Aug-18,2,Training,Open
 23-Aug-18,Lucy Drummonde,16-Aug-18,5,Training,Open
 23-Aug-18,Lucy Drummonde,17-Aug-18,8,Training,Open
+26-Jul-18,Lisa Frys,10-Apr-18,1,TIDES prep w/ Graham,Open
+26-Jul-18,Lisa Frys,11-Apr-18,9.5,TIDES orientation day 1,Open
+26-Jul-18,Lisa Frys,7-May-18,1,External Facilitators MTG,Open
+26-Jul-18,Lisa Frys,4-Jun-18,1,External Facilitators MTG,Open
+26-Jul-18,Lisa Frys,13-Jun-18,9.5,TIDES orientation day 1,Open
+26-Jul-18,Lisa Frys,25-Jun-18,1,TIDES prep w/ Katie,Open
+26-Jul-18,Lisa Frys,26-Jun-18,9,TIDES day 1 facilitation,Open
+26-Jul-18,Lisa Frys,16-Jul-18,1,External Facilitators MTG,Open
+26-Jul-18,Lisa Frys,25-Jul-18,8,TIDES TTT SIM,Open
+23-Aug-18,Lisa Frys,14-Aug-18,1,TIDES facilitation prep,Open
+23-Aug-18,Lisa Frys,15-Aug-18,9,TIDES orientation 1 facilitation,Open
+9-Aug-18,Lisa Frys,1-Aug-18,8,TIDES TTT content day 1,Open
